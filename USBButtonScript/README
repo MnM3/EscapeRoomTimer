@@ -1,0 +1,3 @@
+Note that there needs to be a "message.mp3" inside of this directory for the setup to work.#
+
+Also the USB Port needs to be setup to what you are using. (In the script it is set to "COM3".) 
